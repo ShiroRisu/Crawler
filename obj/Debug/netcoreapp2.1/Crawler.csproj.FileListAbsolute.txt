@@ -1,0 +1,11 @@
+C:\Users\dell\cwiczenia_1-maciej-lomnicki\Crawler\bin\Debug\netcoreapp2.1\Crawler.deps.json
+C:\Users\dell\cwiczenia_1-maciej-lomnicki\Crawler\bin\Debug\netcoreapp2.1\Crawler.runtimeconfig.json
+C:\Users\dell\cwiczenia_1-maciej-lomnicki\Crawler\bin\Debug\netcoreapp2.1\Crawler.runtimeconfig.dev.json
+C:\Users\dell\cwiczenia_1-maciej-lomnicki\Crawler\bin\Debug\netcoreapp2.1\Crawler.dll
+C:\Users\dell\cwiczenia_1-maciej-lomnicki\Crawler\bin\Debug\netcoreapp2.1\Crawler.pdb
+C:\Users\dell\cwiczenia_1-maciej-lomnicki\Crawler\obj\Debug\netcoreapp2.1\Crawler.csprojAssemblyReference.cache
+C:\Users\dell\cwiczenia_1-maciej-lomnicki\Crawler\obj\Debug\netcoreapp2.1\Crawler.csproj.CoreCompileInputs.cache
+C:\Users\dell\cwiczenia_1-maciej-lomnicki\Crawler\obj\Debug\netcoreapp2.1\Crawler.AssemblyInfoInputs.cache
+C:\Users\dell\cwiczenia_1-maciej-lomnicki\Crawler\obj\Debug\netcoreapp2.1\Crawler.AssemblyInfo.cs
+C:\Users\dell\cwiczenia_1-maciej-lomnicki\Crawler\obj\Debug\netcoreapp2.1\Crawler.dll
+C:\Users\dell\cwiczenia_1-maciej-lomnicki\Crawler\obj\Debug\netcoreapp2.1\Crawler.pdb
